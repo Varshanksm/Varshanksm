@@ -8,9 +8,10 @@ Thiagarajar College of Engineering, Madurai.
 Interested in **Data Structures & Algorithms, Backend Development,
 Machine Learning, Databases, and Problem Solving.**
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ragavarshan-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ragavarshan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Varshanksm-black?style=flat&logo=github&logoColor=white)](https://github.com/Varshanksm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ragavarshan-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshanmdu27)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ragavarshan2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshanmdu27)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Varshanksm)
 
 ---
 
