@@ -1,11 +1,13 @@
 # I'm Ragavarshan KSM 👋
 
-### Computer Science & Business Systems Student · Java · Backend · Machine Learning · Problem Solving
+### Computer Science & Business Systems Student
 
-I'm a B.Tech Computer Science and Business Systems student at
-Thiagarajar College of Engineering, Madurai.
+**Java · Backend Development · Machine Learning · DSA**
 
-Interested in **Data Structures & Algorithms, Backend Development,
+I'm a B.Tech Computer Science and Business Systems student at  
+**Thiagarajar College of Engineering, Madurai.**
+
+Interested in **Data Structures & Algorithms, Backend Development,  
 Machine Learning, Databases, and Problem Solving.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ragavarshan-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ragavarshan/)
